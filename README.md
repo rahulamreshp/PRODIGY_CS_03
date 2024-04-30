@@ -3,12 +3,12 @@
 
 The Password Complexity Checker is a command-line utility designed to assess the strength of passwords based on various criteria such as length, character diversity, and commonality. It aims to provide users with insights into the robustness of their chosen passwords and offer suggestions for improvement if necessary.
 
-# usage
+# Usage
 pip install -r Requirements.txt
 
 python3 main.py
 
-# modules
+# Modules
 
 Complexity Assessment
 
